@@ -1,6 +1,6 @@
 
 
-![statistics](https://github-readme-stats.vercel.app/api?username=JefersonLeandro&show_icons=true&count_private=true&hide_title=true&hide=prs theme=dark)
+![statistics](https://github-readme-stats.vercel.app/api?username=JefersonLeandro&show_icons=true&count_private=true&hide_title=true&hide=prs_theme=dark)
 
 
 <!--
