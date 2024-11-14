@@ -1,7 +1,6 @@
-## Hi there 👋
 
 
-[----](https://github-readme-stats.vercel.app/api?username=JefersonLeandro&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![statistics](https://github-readme-stats.vercel.app/api?username=JefersonLeandro&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
 
 <!--
