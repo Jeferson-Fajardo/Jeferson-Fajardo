@@ -14,7 +14,7 @@
 
 ## Let's connect
 
- - [Twitter](https://twitter.com/ ) | [LinkedIn](https://linkedin.com/in/jeferson-fajardo) | [Mi Blog](#)
+ - [Twitter](https://x.com/Jeferson_Fajard) | [LinkedIn](https://linkedin.com/in/jeferson-fajardo) | [Mi Blog](#)
    
 <!--
 
