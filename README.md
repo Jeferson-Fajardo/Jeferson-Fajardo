@@ -5,7 +5,7 @@
     <img align=top src="https://github-readme-stats.vercel.app/api?username=Jeferson-Fajardo&show_icons=true&count_private=true&hide_title=true&hide=prs&bg_color=000000&theme=tokyonight" width=48%;>
 </div>
 
-## Tecnologics
+## Technologies
 
 - **Frontend**: HTML, CSS, JavaScript, Vite.
 - **Backend**: Java, JSP, PHP, Laravel, Python, Flask, Django.  
