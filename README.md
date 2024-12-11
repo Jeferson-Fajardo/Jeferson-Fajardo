@@ -10,7 +10,7 @@
 - **Frontend**: HTML, CSS, JavaScript, Vite.
 - **Backend**: Java, JSP, PHP, Laravel, Python, Flask, Django.  
 - **Data bases**: MySQL.
-- **Collaborative work**: Git, Postman, TFS.
+- ** Collaborative Tools**: Git, Postman, TFS.
 
 ## Let's connect
 
