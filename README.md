@@ -1,4 +1,4 @@
-<h1>Software developer</h1>
+<h1>Software Developer</h1>
 
 <div style="display: flex;" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-Fajardo&layout=compact&theme=date_night" width=40%;>
@@ -15,4 +15,3 @@
 ## Let's connect
 
  - [Twitter](https://x.com/Jeferson_Fajard) | [LinkedIn](https://linkedin.com/in/jeferson-fajardo) | [Mi Blog](#)
-
