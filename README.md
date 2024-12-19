@@ -1,8 +1,8 @@
 <h1>Software Developer</h1>
 
 <div style="display: flex;" >
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-Fajardo&layout=compact&text_color=A26F62&bg_color=00000000&theme=date_night&hide_border=true" width="40%"/>
- <img align=end src="https://github-readme-stats.vercel.app/api?username=Jeferson-Fajardo&show_icons=true&count_private=true&hide_title=true&hide_border=true&text_color=A26F62&bg_color=00000000&hide=prs&theme=date_night" width=48%>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-Fajardo&layout=compact&text_color=A26F62&bg_color=00000000&theme=date_night&hide_border=true" width="41%"/>
+ <img align=end src="https://github-readme-stats.vercel.app/api?username=Jeferson-Fajardo&show_icons=true&count_private=true&hide_title=true&hide_border=true&text_color=A26F62&bg_color=00000000&hide=prs&theme=date_night" width=49%>
 </div>
 
 ## Technologies
